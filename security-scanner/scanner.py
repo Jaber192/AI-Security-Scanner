@@ -66,7 +66,6 @@ def scan_file(file_path):
 
 
 
-
 # Check if a filename was provided
 if len(sys.argv) > 1:
     filepath = sys.argv[1]
